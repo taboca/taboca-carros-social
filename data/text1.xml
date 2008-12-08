@@ -2,7 +2,9 @@
    <header>
       <title>Novo Honda Fit</title>
       <categories>
-         <category_item>Honda, Fit, Monovolume</category_item>
+         <category_item>Honda</category_item>
+         <category_item>Fit</category_item>
+         <category_item>Monovolume</category_item>
       </categories>
    </header>
    <content><![CDATA[
