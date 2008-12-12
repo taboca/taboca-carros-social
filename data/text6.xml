@@ -16,7 +16,7 @@
 
 <h2>Tabela de Impostos para Carros</h2>
 
-<table border="1">
+<table border="1" cellspacing="0" cellpadding="10">
 <tr>
 <td valign="top">
 Cilindrada
